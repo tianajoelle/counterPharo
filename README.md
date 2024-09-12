@@ -1,0 +1,2 @@
+# counterPharo
+Exercice sur Pharo
